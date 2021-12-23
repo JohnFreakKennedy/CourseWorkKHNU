@@ -1,0 +1,6 @@
+D:\Univer\Others\Barabash\MyCryptography\MyCryptography\bin\Debug\MyCryptography.dll
+D:\Univer\Others\Barabash\MyCryptography\MyCryptography\bin\Debug\MyCryptography.pdb
+D:\Univer\Others\Barabash\MyCryptography\MyCryptography\obj\Debug\MyCryptography.csproj.AssemblyReference.cache
+D:\Univer\Others\Barabash\MyCryptography\MyCryptography\obj\Debug\MyCryptography.csproj.CoreCompileInputs.cache
+D:\Univer\Others\Barabash\MyCryptography\MyCryptography\obj\Debug\MyCryptography.dll
+D:\Univer\Others\Barabash\MyCryptography\MyCryptography\obj\Debug\MyCryptography.pdb
